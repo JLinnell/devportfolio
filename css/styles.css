@@ -433,7 +433,8 @@ footer {
 
 .tech-icon-css, .tech-icon-Html, 
 .tech-icon-js, .tech-icon-jQuery, 
-.tech-icon-mongodb, .tech-icon-react {
+.tech-icon-mongodb, .tech-icon-react,
+.tech-icon-node {
     color: #4b4b4b;
     height: 1.3em
 }
