@@ -431,9 +431,35 @@ footer {
     margin-top: 19.200px
 }
 
-.tech-icon {
+.tech-icon-css, .tech-icon-Html, 
+.tech-icon-js, .tech-icon-jQuery, 
+.tech-icon-mongodb, .tech-icon-react {
     color: #4b4b4b;
     height: 1.3em
+}
+
+.tech-icon-css:hover{
+    cursor: pointer
+}
+
+.tech-icon-Html:hover{
+    cursor: pointer
+}
+
+.tech-icon-js:hover{
+    cursor: pointer
+}
+
+.tech-icon-jQuery:hover{
+    cursor: pointer
+}
+
+.tech-icon-mongodb:hover{
+    cursor: pointer
+}
+
+.tech-icon-react:hover{
+    cursor: pointer
 }
 
 .card-actions {
