@@ -431,10 +431,7 @@ footer {
     margin-top: 19.200px
 }
 
-.tech-icon-css, .tech-icon-Html, 
-.tech-icon-js, .tech-icon-jQuery, 
-.tech-icon-mongodb, .tech-icon-react,
-.tech-icon-node {
+.tech-icon {
     color: #4b4b4b;
     height: 1.3em
 }
