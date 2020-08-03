@@ -436,27 +436,31 @@ footer {
     height: 1.3em
 }
 
-.tech-icon-css:hover{
+#CSS:hover{
     cursor: pointer
 }
 
-.tech-icon-Html:hover{
+#HTML:hover{
     cursor: pointer
 }
 
-.tech-icon-js:hover{
+#JavaScript:hover{
     cursor: pointer
 }
 
-.tech-icon-jQuery:hover{
+#jQuery:hover{
     cursor: pointer
 }
 
-.tech-icon-mongodb:hover{
+#MongoDB:hover{
     cursor: pointer
 }
 
-.tech-icon-react:hover{
+#React:hover{
+    cursor: pointer
+}
+
+#Node.js:hover {
     cursor: pointer
 }
 
