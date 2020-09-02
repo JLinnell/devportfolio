@@ -436,34 +436,6 @@ footer {
     height: 1.3em
 }
 
-#CSS:hover{
-    cursor: pointer
-}
-
-#HTML:hover{
-    cursor: pointer
-}
-
-#JavaScript:hover{
-    cursor: pointer
-}
-
-#jQuery:hover{
-    cursor: pointer
-}
-
-#MongoDB:hover{
-    cursor: pointer
-}
-
-#React:hover{
-    cursor: pointer
-}
-
-#Node.js:hover {
-    cursor: pointer
-}
-
 .card-actions {
     margin-right: 1em
 }
